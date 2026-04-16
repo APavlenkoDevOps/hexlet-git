@@ -5,7 +5,6 @@ users = [
     {"name": "Julian", "kids": []},
 ]
 
-
 def has_kids(users) -> bool:
     for user in users:
         if user["kids"]:
