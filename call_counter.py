@@ -14,7 +14,7 @@ def call_counter(func):
 
 @call_counter
 def greet(name):
-    return f"Hello, {name}!"
+     f"Hello, {name}!"
 
 greet("Alice")
 greet("Bob")
